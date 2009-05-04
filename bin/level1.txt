@@ -1,0 +1,19 @@
+TimeAllowed
+100
+BoardWidth
+6 
+NumStartpieces
+2
+NumBalls
+6
+MinForSuccess
+5
+sp hz ll lr ll hz 
+ur lr fw vt vt vt 
+fw ur fw ll ul fw 
+sp fw hz ul ul ll 
+fw bp ll vt fw bp  
+ur fw fw ur fw ep 
+Rotation-NumBalls-EntryTimes
+180 3 250 500 750
+180 3 250 500 750
